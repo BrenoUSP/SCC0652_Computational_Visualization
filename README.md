@@ -1,2 +1,2 @@
-# SCC0652_Data_Visualization
-Projects made for SCC0652 - Data Visualization at ICMC - USP.
+# SCC0652_Computational_Visualization
+Projects made for SCC0652 - Computational Visualization at ICMC - USP.
