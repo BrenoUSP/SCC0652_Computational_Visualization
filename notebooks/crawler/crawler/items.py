@@ -10,7 +10,7 @@ class CrawlerItem(scrapy.Item):
     cod = scrapy.Field()  # not unique
     img = scrapy.Field()
     name = scrapy.Field()
-    subtitle = scrapy.Field()  # can be None
+    form = scrapy.Field()  # can be None
     type1 = scrapy.Field()
     type2 = scrapy.Field()  # can be None
     total = scrapy.Field()

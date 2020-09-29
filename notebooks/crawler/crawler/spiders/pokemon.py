@@ -49,10 +49,11 @@ class PokeSpider(scrapy.Spider):
 
         for pokemon in pokemons:
             item = CrawlerItem()
-            item['img'] = pokemon.xpath('./td[1]//span[@class="img-fixed icon-pkmn"]/@data-src').extract_first()
+            if pokemon.xpath('./td[1]//span[@class="img-fixed icon-pkmn"]/@data-src').extract_first() != 'https://img.pokemondb.net/s.png':
+                item['img'] = pokemon.xpath('./td[1]//span[@class="img-fixed icon-pkmn"]/@data-src').extract_first()
             item['cod'] = pokemon.xpath('./td[1]//span[@class="infocard-cell-data"]/text()').extract_first()
             item['name'] = pokemon.xpath('./td[2]/a/text()').extract_first()
-            item['subtitle'] = pokemon.xpath('./td[2]/small/text()').extract_first()
+            item['form'] = pokemon.xpath('./td[2]/small/text()').extract_first()
             item['type1'] = pokemon.xpath('./td[3]/a[1]/text()').extract_first()
             item['type2'] = pokemon.xpath('./td[3]/a[2]/text()').extract_first()
             item['total'] = pokemon.xpath('./td[4]/text()').extract_first()
