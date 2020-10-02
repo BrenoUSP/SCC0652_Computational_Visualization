@@ -39,10 +39,10 @@ cod,name,generation,status,species,form,type1,type2,height_m,weight_kg,total,hp,
 027,Sandshrew,1,Normal,Mouse Pokémon,Alolan Sandshrew,Ice,Steel,0.7,40.0,300,50,75,90,10,35,40,https://img.pokemondb.net/sprites/home/normal/sandshrew-alolan.png
 028,Sandslash,1,Normal,Mouse Pokémon,,Ground,,1.0,29.5,450,75,100,110,45,55,65,https://img.pokemondb.net/sprites/home/normal/sandslash.png
 028,Sandslash,1,Normal,Mouse Pokémon,Alolan Sandslash,Ice,Steel,1.2,55.0,450,75,100,120,25,65,65,https://img.pokemondb.net/sprites/home/normal/sandslash-alolan.png
-029,Nidoran♀,1,Normal,Poison Pin Pokémon,,Poison,,0.4,7.0,275,55,47,52,40,40,41,https://img.pokemondb.net/sprites/home/normal/nidoran-f.png
+029,Nidoran-f,1,Normal,Poison Pin Pokémon,,Poison,,0.4,7.0,275,55,47,52,40,40,41,https://img.pokemondb.net/sprites/home/normal/nidoran-f.png
 030,Nidorina,1,Normal,Poison Pin Pokémon,,Poison,,0.8,20.0,365,70,62,67,55,55,56,https://img.pokemondb.net/sprites/home/normal/nidorina.png
 031,Nidoqueen,1,Normal,Drill Pokémon,,Poison,Ground,1.3,60.0,505,90,92,87,75,85,76,https://img.pokemondb.net/sprites/home/normal/nidoqueen.png
-032,Nidoran♂,1,Normal,Poison Pin Pokémon,,Poison,,0.5,9.0,273,46,57,40,40,40,50,https://img.pokemondb.net/sprites/home/normal/nidoran-m.png
+032,Nidoran-m,1,Normal,Poison Pin Pokémon,,Poison,,0.5,9.0,273,46,57,40,40,40,50,https://img.pokemondb.net/sprites/home/normal/nidoran-m.png
 033,Nidorino,1,Normal,Poison Pin Pokémon,,Poison,,0.9,19.5,365,61,72,57,55,55,65,https://img.pokemondb.net/sprites/home/normal/nidorino.png
 034,Nidoking,1,Normal,Drill Pokémon,,Poison,Ground,1.4,62.0,505,81,102,77,85,75,85,https://img.pokemondb.net/sprites/home/normal/nidoking.png
 035,Clefairy,1,Normal,Fairy Pokémon,,Fairy,,0.6,7.5,323,70,45,48,60,65,35,https://img.pokemondb.net/sprites/home/normal/clefairy.png
