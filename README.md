@@ -55,17 +55,17 @@ Considering the course subject, we chose a Pokémon dataset to use the proper vi
 
 The projects are Jupyter Notebooks divided in three subjects studied throughout the course:
 
-### [Data processing](https://github.com/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-1/Projeto_1_Processamento_de_dados.ipynb)
+### [Data processing](https://nbviewer.jupyter.org/github/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-1/Projeto_1_Processamento_de_dados.ipynb)
 
 Choosing the Pokémon dataset, we had to process the data, cleaning, adding relevant information for the dataset. We joined a dataset from [Kaggle](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420) with data scrapped from [Pokémon Database](https://pokemondb.net/pokedex/all).
 
-### [Data visualization](https://github.com/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-2/Projeto_2_Visualizacao_de_dados.ipynb)
+### [Data visualization](https://nbviewer.jupyter.org/github/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-2/Projeto_2_Visualizacao_de_dados.ipynb)
 
 With the data processed, we made all the different kind of visualizations with the intent of understanding the dataset even more. Notable visualizations made were Boxplot, Violin Plot, correlation heatmap for Pearson and Spearman, Scatter plot, Pairplot and Word cloud.
 
-### [Interactive visualization](https://github.com/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-3/Projeto_3_Visualizacao_interativa.ipynb)
+### [Interactive visualization](https://nbviewer.jupyter.org/github/brenoslivio/SCC0652_Computational_Visualization/blob/master/notebooks/Project-3/Projeto_3_Visualizacao_interativa.ipynb) 
 
-Finally, the last project make the visualization interactive, allowing the user explore the dataset with proper input from the keyboard and mouse. Graphs like boxplot, violin plot, scatter plot. Beyond that, we created a functional Pokédex with ipywidgets.
+Finally, the last project make the visualization interactive, allowing the user explore the dataset with proper input from the keyboard and mouse. Graphs like boxplot, violin plot, scatter plot. Beyond that, we created a functional Pokédex with ipywidgets. (Important: Widgets aren't rendered properly with nbviewer).
 
 You can check the complete documentation (Brazilian Portuguese) for the projects [here](https://github.com/brenoslivio/SCC0652_Computational_Visualization/blob/master/SCC0652___Projeto_Pok_mon.pdf).
 
